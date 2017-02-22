@@ -1,0 +1,10 @@
+body{background-color: darksalmon;
+  align-content: center;
+  font-family: "Open Sans", sans-serif;
+  margin-top: 5cm
+}
+
+A:link { COLOR: black; TEXT-DECORATION: none; font-weight: normal }
+A:visited { COLOR: black; TEXT-DECORATION: none; font-weight: normal }
+A:active { COLOR: black; TEXT-DECORATION: none }
+A:hover { color: aliceblue; TEXT-DECORATION: none; font-weight: none }
